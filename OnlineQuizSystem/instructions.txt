@@ -1,0 +1,9 @@
+Anda diizinkan memulai tes kapan pun Anda mau. Timer akan mulai hanya ketika Anda memulai tes. Namun ingat bahwa admin memiliki hak penuh untuk menonaktifkan tes setiap saat. Jadi disarankan untuk memulai tes pada waktu yang ditentukan.
+Anda dapat melihat riwayat tes yang diambil dan skor di bagian 'Riwayat'.
+Untuk memulai tes, klik tombol 'Start'.
+Setelah tes dimulai, penghitung waktu akan berjalan terlepas dari status login Anda atau login kami. Jadi disarankan untuk tidak keluar sebelum tes selesai.
+Untuk menandai jawaban, Anda harus memilihnya dan tekan tombol 'Lock'. Setelah mengunci, jawaban yang dipilih akan ditampilkan dan pertanyaan akan ditandai "hijau"
+Untuk mengganti jawaban klik tanda silang merah di sebelah pilihan jawaban yang terkunci</span>.
+Gunakan tombol navigasi untuk menavigasi melalui berbagai pertanyaan.
+Tanda untuk jawaban yang benar dan salah tercantum di atas dalam tabel. 0 tanda akan diberikan untuk pertanyaan yang "tidak ditandai" (berstatus "merah").
+Jika Anda mendapatkan beberapa kesalahan, Anda dapat menghubungi kami melalui formulir feedback  dibawah ini </a>.
